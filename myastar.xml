@@ -1,0 +1,9 @@
+<library path="lib/libmyastar">
+  <class name="myastar/myastar" 
+         type="myastar::MyAstarPlanner"
+         base_class_type="nav_core::BaseGlobalPlanner">
+    <description>
+      This is an A* nav by bbb.
+    </description>
+  </class>
+</library>
